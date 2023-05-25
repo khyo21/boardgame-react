@@ -1,0 +1,19 @@
+.summary {
+  font-family: "yg-jalnan";
+  text-align: center;
+  max-width: 30rem;
+  width: 90%;
+  margin: auto;
+  margin-top: -25rem;
+  position: relative;
+  background-color: #eaeaeae7;
+  border: 1px solid #eee;
+  border-radius: 14px;
+  padding: 3rem;
+}
+
+.summary h2 {
+  font-size: 2rem;
+  margin-top: 0;
+  color: #d68f1c;
+}
